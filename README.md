@@ -1,7 +1,5 @@
 # Yun Junseo 🏖️
 
-//[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjs2673&count_bg=%23868686&title_bg=%23DBDBDB&icon=&icon_color=%23747474&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![Yun Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjs2673&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs2673)](https://solved.ac/yjs2673/)
 
