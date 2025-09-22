@@ -1,9 +1,13 @@
+<div align="center">
+
 # Yun Junseo 🏖️
 
 ![Yun Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjs2673&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjs2673&langs_count=8&layout=compact&theme=dark)](https://github.com/yjs2673)﻿
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs2673)](https://solved.ac/yjs2673/)
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yjs2673&theme=warm)
 
 # Skills 🛠️
@@ -21,5 +25,6 @@
 ![unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![unreal engine](https://img.shields.io/badge/unreal%20engine-0E1128.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
