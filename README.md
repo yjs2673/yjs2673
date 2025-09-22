@@ -1,9 +1,9 @@
 # Yun Junseo 🏖️
 
 ![Yun Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjs2673&show_icons=true&theme=dark)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs2673)](https://solved.ac/yjs2673/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={yjs2673}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={yjs2673}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yjs2673&theme=warm)
 
 # Skills 🛠️
 ### Platforms & Languages
