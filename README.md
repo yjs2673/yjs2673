@@ -2,12 +2,14 @@
 
 ![Yun Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjs2673&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs2673)](https://solved.ac/yjs2673/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={yjs2673}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={yjs2673}&theme=warm"/>
 
 # Skills 🛠️
 ### Platforms & Languages
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
 ![cplusplus](https://img.shields.io/badge/c%23-663399.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![verilog](https://img.shields.io/badge/verilog-000000.svg?&style=for-the-badge&logo=verilog&logoColor=white)
