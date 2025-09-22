@@ -19,4 +19,6 @@
 ![eclipse ide](https://img.shields.io/badge/eclipse%20ide-2C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white)
 ![unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![unreal engine](https://img.shields.io/badge/unreal%20engine-0E1128.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
-![visual studio](https://img.shields.io/badge/visual%20studio-663399.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white)
+<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
