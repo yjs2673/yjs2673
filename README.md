@@ -6,7 +6,7 @@
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="600" alt="3D Contrib" />  <br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs2673" width="300" />
-<img src="http://mazandi.herokuapp.com/api?handle=yjs2673&theme=white" width="300" />       <br/>
+<img src="http://mazandi.herokuapp.com/api?handle=yjs2673&theme=white" width="300" />      <br/>
 </div>
 <br/>
 
@@ -19,6 +19,14 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
 </div>
+<br/>
+
+My career path is to be a ***Game Client Developer***.
+
+
+The most commonly used languages are _C++_ and _C#_.
+
+I used to study _Python_ and _Java_, but now I am at a basic level with them.
 
 <!-- ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) -->
 <!-- ![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white) -->
@@ -26,11 +34,6 @@
 <!-- ![cplusplus](https://img.shields.io/badge/c%23-663399.svg?&style=for-the-badge&logo=cplusplus&logoColor=white) -->
 <!-- ![java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white) -->
 <!-- ![verilog](https://img.shields.io/badge/verilog-000000.svg?&style=for-the-badge&logo=verilog&logoColor=white) -->
-<br/>
-My career path is to be a **game client developer**.<br/>
-The most commonly used languages are _C++_ and _C#_. <br/>
-_Python_ and _Java_ are at the basic level.
-
 </div>
 
 ## Tools ⚒️
@@ -41,6 +44,13 @@ _Python_ and _Java_ are at the basic level.
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![eclipse ide](https://img.shields.io/badge/eclipse%20ide-2C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white)
 <!-- <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> -->
+
+I am studying ***Unity*** and ***Unreal Engine*** for game development.
+
+I am developing games directly using each engine.
+
+I have used the _Java Eclipse IDE_ before, but nowadays I only use ***Visual Studio Code***.
+
 </div>
 
 ## Connections ⛓️‍💥
@@ -53,6 +63,11 @@ _Python_ and _Java_ are at the basic level.
 [![Email](https://img.shields.io/badge/-Gmail-4285F4?style=flat-square&logo=gmail&logoColor=white)](mailto:junseo@hello.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/353530660415209473)
 [![Instagram](https://img.shields.io/badge/-Instagram-ed5ce6?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/junseo.__.o)
+
+You can connect with me on all of those platforms!
+
+My Gmail address is on the Profile line.
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
