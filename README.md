@@ -8,6 +8,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs2673)](https://solved.ac/yjs2673/)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <br/>
 
 # Skills 🛠️
