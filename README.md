@@ -15,9 +15,9 @@
 
 <div style="display: flex; align-items: flex-start; flex-direction: row;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" style="margin-right: 20px;"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" style="margin-right: 20px;"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" style="margin-right: 20px;"/>
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
 </div>
 
 <!-- ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) -->
