@@ -7,7 +7,7 @@
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="600" alt="3D Contrib" />  <br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs2673" width="300" />
-<img src="http://mazandi.herokuapp.com/api?handle=yjs2673&theme=dark" width="300" />       <br/>
+<img src="http://mazandi.herokuapp.com/api?handle=yjs2673&theme=white" width="300" />       <br/>
 
 <br/>
 
