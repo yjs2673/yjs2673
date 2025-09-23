@@ -26,7 +26,15 @@
 ![unreal engine](https://img.shields.io/badge/unreal%20engine-0E1128.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-## Connect 📧
+## Connections ⛓️‍💥
+[![youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@yjs2673)
+[![tistory](https://img.shields.io/badge/-Tistory-EB531F?style=flat-square&logo=tistory&logoColor=white)](https://yjs2673.tistory.com)
+[![KakaoTalk](https://img.shields.io/badge/-KakaoTalk-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white)](https://open.kakao.com/o/soNd3zTh)
+[![naver](https://img.shields.io/badge/-Blog-03C75A?&style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/yjs2673)
+[![Email](https://img.shields.io/badge/-Gmail-4285F4?style=flat-square&logo=gmail&logoColor=white)](mailto:junseo@hello.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/353530660415209473)
+[![Instagram](https://img.shields.io/badge/-Instagram-ed5ce6?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/junseo.__.o)
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
