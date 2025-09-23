@@ -66,7 +66,7 @@ I have used the _Java Eclipse IDE_ before, but nowadays I only use ***Visual Stu
 
 You can connect with me on all of those platforms!
 
-My Gmail address is on the Profile line.
+My Gmail address is on the Profile Bio.
 
 </div>
 
