@@ -1,5 +1,3 @@
-
-
 # Yun Junseo 🏖️
 
 <div align="center">
@@ -14,13 +12,20 @@
 
 ## Skills 🛠️
 <div align="center">
-  
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
-![cplusplus](https://img.shields.io/badge/c%23-663399.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
-![verilog](https://img.shields.io/badge/verilog-000000.svg?&style=for-the-badge&logo=verilog&logoColor=white)
+
+<div style="display: flex; align-items: flex-start; flex-direction: row;">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" style="margin-right: 20px;"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" style="margin-right: 20px;"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" style="margin-right: 20px;"/>
+</div>
+
+<!-- ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) -->
+<!-- ![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white) -->
+<!-- <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" /> -->
+<!-- ![cplusplus](https://img.shields.io/badge/c%23-663399.svg?&style=for-the-badge&logo=cplusplus&logoColor=white) -->
+<!-- ![java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white) -->
+<!-- ![verilog](https://img.shields.io/badge/verilog-000000.svg?&style=for-the-badge&logo=verilog&logoColor=white) -->
 </div>
 
 ## Tools ⚒️
@@ -30,7 +35,7 @@
 ![eclipse ide](https://img.shields.io/badge/eclipse%20ide-2C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white)
 ![unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![unreal engine](https://img.shields.io/badge/unreal%20engine-0E1128.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
-<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> -->
 </div>
 
 ## Connections ⛓️‍💥
