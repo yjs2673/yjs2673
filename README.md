@@ -26,6 +26,11 @@
 <!-- ![cplusplus](https://img.shields.io/badge/c%23-663399.svg?&style=for-the-badge&logo=cplusplus&logoColor=white) -->
 <!-- ![java](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white) -->
 <!-- ![verilog](https://img.shields.io/badge/verilog-000000.svg?&style=for-the-badge&logo=verilog&logoColor=white) -->
+<br/>
+My career path is to be a **game client developer**.<br/>
+The most commonly used languages are _C++_ and _C#_. <br/>
+_Python_ and _Java_ are at the basic level.
+
 </div>
 
 ## Tools ⚒️
