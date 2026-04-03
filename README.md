@@ -16,8 +16,6 @@
 <div style="display: flex; align-items: flex-start; flex-direction: row;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="70" height="70" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
 </div>
 <br/>
 
@@ -26,7 +24,6 @@ My career path is to be a ***Game Client Developer***.
 
 The most commonly used languages are _C++_ and _C#_.
 
-I used to study _Python_ and _Java_, but now I am at a basic level with them.
 
 <!-- ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) -->
 <!-- ![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white) -->
@@ -42,18 +39,16 @@ I used to study _Python_ and _Java_, but now I am at a basic level with them.
 ![unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![unreal engine](https://img.shields.io/badge/unreal%20engine-0E1128.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![eclipse ide](https://img.shields.io/badge/eclipse%20ide-2C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white)
 <!-- <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> -->
 
 I am studying ***Unity*** and ***Unreal Engine*** for game development.
 
 I am developing games directly using each engine.
 
-I have used the _Java Eclipse IDE_ before, but nowadays I only use ***Visual Studio Code***.
 
 </div>
 
-## Connections ⛓️‍💥
+## Connections 🔗
 <div align="center">
   
 [![youtube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@yjs2673)
