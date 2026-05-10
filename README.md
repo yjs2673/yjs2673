@@ -1,10 +1,11 @@
-# Yun Junseo 🏖️
+<!-- # Yun Junseo 🏖️ -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&text=Junseo_Yun🏖️)
 
 <div align="center">
 <!-- ![Yun Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjs2673&show_icons=true&theme=dark) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjs2673&langs_count=8&layout=compact&theme=dark)](https://github.com/yjs2673)﻿ -->
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="500" alt="3D Contrib" />  <br/>
+<!-- <img src="./profile-3d-contrib/profile-green-animate.svg" width="300" alt="3D Contrib" /> -->
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs2673" width="300" />
 </div>
 <br/>
@@ -71,4 +72,4 @@ My Gmail address is written on the Profile Bio.
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=footer)
