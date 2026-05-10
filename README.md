@@ -1,5 +1,5 @@
 <!-- # Yun Junseo 🏖️ -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&text=Junseo_Yun🏖️)
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&text=Junseo_Yun🏖️&fontSize=40)
 
 <div align="center">
 <!-- ![Yun Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjs2673&show_icons=true&theme=dark) -->
