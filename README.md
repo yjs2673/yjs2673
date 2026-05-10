@@ -9,17 +9,25 @@
 </div>
 <br/>
 
-## Skills 🛠️
+## Skills & Tools 🛠️
 <div align="center">
-  
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div>
 
-<br/>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/adc7ffeb-4a00-4066-b6bf-ff2fd5dfd708" width="50" height="50" /></td>
+    <td><img src="https://github.com/user-attachments/assets/73aeddc0-5747-4b87-84ba-1b2b3c6ca1ea" width="50" height="50" /></td>
+    <td><img src="https://github.com/user-attachments/assets/6a009d54-5a6f-4d81-9442-e36e11517235" width="50" height="50" /></td>
+  </tr>
+</table>
+
+<!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div> -->
 
 My career path is to be a ***Game Client Developer***.
 
 
 The most commonly used languages are _C++_ and _C#_.
+
+Studied Computer Science fundamentals through C for 3 years at university.
 
 
 <!-- ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) -->
@@ -30,7 +38,8 @@ The most commonly used languages are _C++_ and _C#_.
 <!-- ![verilog](https://img.shields.io/badge/verilog-000000.svg?&style=for-the-badge&logo=verilog&logoColor=white) -->
 </div>
 
-## Tools ⚒️
+<br/>
+
 <div align="center">
   
 ![unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
@@ -56,7 +65,7 @@ I am developing games directly using each engine.
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/353530660415209473)
 [![Instagram](https://img.shields.io/badge/-Instagram-ed5ce6?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/junseo.__.o)
 
-You can connect with me through all of those platforms!
+More information about me is available on all of these platforms!
 
 My Gmail address is written on the Profile Bio.
 
