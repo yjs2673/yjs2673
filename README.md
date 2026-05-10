@@ -6,17 +6,15 @@
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="500" alt="3D Contrib" />  <br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjs2673" width="300" />
-<img src="http://mazandi.herokuapp.com/api?handle=yjs2673&theme=white" width="300" />      <br/>
 </div>
 <br/>
 
 ## Skills 🛠️
-<div align="center">
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="65" height="65" />
+</p>
 
-<div style="display: flex; align-items: flex-start; flex-direction: row;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-</div>
 <br/>
 
 My career path is to be a ***Game Client Developer***.
