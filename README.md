@@ -10,10 +10,9 @@
 <br/>
 
 ## Skills 🛠️
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="65" height="65" />
-</p>
+<div align="center">
+  
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /></div>
 
 <br/>
 
